@@ -1,0 +1,3 @@
+D:/Kinga/Documents/Munka/Programozós/Projektek/Komplex_numbers/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Kinga/Documents/Munka/Programozós/Projektek/Komplex_numbers/cmake-build-debug/CMakeFiles/Gyakorlas.dir
+D:/Kinga/Documents/Munka/Programozós/Projektek/Komplex_numbers/cmake-build-debug/CMakeFiles/rebuild_cache.dir
